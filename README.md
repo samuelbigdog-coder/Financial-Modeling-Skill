@@ -8,6 +8,10 @@ Version 0.7 brings the existing financial-modeling workflow into a three-skill r
 | [Equity research analyst](skills/equity-research-analyst/SKILL.md) | Investment questions, company and industry evidence, competitive position and thesis risk | [equity-research-analyst.zip](dist/equity-research-analyst.zip) |
 | [Valuation discipline](skills/valuation-discipline/SKILL.md) | Price-implied expectations, intrinsic and relative value, and scenario interpretation | [valuation-discipline.zip](dist/valuation-discipline.zip) |
 
+## Public equity DCF template
+
+[templates/public-equity-dcf](templates/public-equity-dcf/) holds a formula-driven DCF workbook for one public company, a script that loads five years of SEC XBRL data into it, and an independent verifier that rebuilds every result in Python. Start every public-stock model from it.
+
 ## Reference and example
 
 - [Source review and v0.6 gap audit](docs/SOURCE-REVIEW.md)
