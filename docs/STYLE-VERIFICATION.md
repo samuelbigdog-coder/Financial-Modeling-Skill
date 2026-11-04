@@ -1,6 +1,6 @@
 # Synthetic mini-model style verification
 
-Reviewed `examples/Northstar_Motion_MiniModel.xlsx` against the [SFG style specification](../skills/financial-modeling/references/sfg-style.md). The review covered all worksheets structurally, representative rendered regions, and the exported Excel package. The SHA-256 of the reviewed workbook was `37732F40D2A2DD45B2B6A9F40A2D1072AFCB5113CA678331752031653EA26D3C`.
+Reviewed `examples/Northstar_Motion_MiniModel.xlsx` against the [STARWAR style specification](../skills/financial-modeling/references/starwar-style.md). The review covered all worksheets structurally, representative rendered regions, and the exported Excel package. The SHA-256 of the reviewed workbook was `37732F40D2A2DD45B2B6A9F40A2D1072AFCB5113CA678331752031653EA26D3C`.
 
 ## Results
 

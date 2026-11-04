@@ -11,7 +11,7 @@ Version 0.7 brings the existing financial-modeling workflow into a three-skill r
 ## Reference and example
 
 - [Source review and v0.6 gap audit](docs/SOURCE-REVIEW.md)
-- [SFG workbook style, sheet by sheet](skills/financial-modeling/references/sfg-style.md)
+- [STARWAR workbook style, sheet by sheet](skills/financial-modeling/references/starwar-style.md)
 - [Synthetic mini-model and reproduction instructions](examples/)
 - [Skill application evaluation](docs/SKILL-EVALUATION.md)
 - [Workbook style verification](docs/STYLE-VERIFICATION.md)
